@@ -5,8 +5,9 @@
 Breve descrição do que o seu projeto faz.
 
 ## :technologist: Membros da equipe
-
-Matrícula, nome e curso dos participantes.
+| Matrícula| Nome | Curso |
+| --- | --- | --- |
+| 582812 | Jeimison Moreno Lima |  Redes de Computadores  |  |
 
 ## :bulb: Objetivo Geral
 Descrever o objetivo de geral do projeto
